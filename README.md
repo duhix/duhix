@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://discord.com/users/570621506506194964" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/570621506506194964"></a>
+    <a href="https://discord.com/users/622075296224509993" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/622075296224509993"></a>
 </div>
 
 ```python
