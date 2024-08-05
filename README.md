@@ -3,10 +3,7 @@
 </div>
 
 ```python
-ig: "duhanoloji"
-yt: "duhix"
-sptfy: "duhix"
-dc: "duhix#1000"
+dc: "duhixx"
 ```
 <h1>PROFILE VIEWS;</h1>
 <p align="center"><img src="https://count.getloli.com/get/@:duhix" alt=":duhix" /></p>
